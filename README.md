@@ -32,3 +32,8 @@
 ## 鸣谢
 
 感谢 [fuxiaoyan1](https://github.com/fuxiaoyan1) 提供的开源项目 [finance-reimbursement-assistant](https://github.com/fuxiaoyan1/finance-reimbursement-assistant)。
+
+
+## 问题反馈
+
+如果在使用中遇到问题，欢迎在 [Issues](https://github.com/xiao-ming-li/fapiao-helper/issues) 页面提交反馈，我会尽快查看。
